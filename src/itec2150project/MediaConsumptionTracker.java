@@ -11,7 +11,7 @@ import javax.swing.JPanel;
  * @version 0.1
  */
 public class MediaConsumptionTracker {
-	
+	//this is a chenge
 	// The program window
 	JFrame frame;
 	
